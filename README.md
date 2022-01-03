@@ -1,2 +1,3 @@
-# NioAnalysis
-Predictive models for the Nio Stock
+PDF SPMSFv2 was a semester project for BYU's CS 580.
+
+Further work is being done.
